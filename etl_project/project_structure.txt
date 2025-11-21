@@ -1,0 +1,7 @@
+etl_project/
+├─ config.py
+├─ transform.py
+├─ etl.py
+├─ benchmark.py
+├─ main.py
+├─ requirements.txt
